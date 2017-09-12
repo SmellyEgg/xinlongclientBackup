@@ -1,0 +1,13 @@
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\bin\x64\Debug\xinLongyuClient.exe.config
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\bin\x64\Debug\xinLongyuClient.exe
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\bin\x64\Debug\xinLongyuClient.pdb
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\bin\x64\Debug\SmellyEggCrypt.dll
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\obj\x64\Debug\xinLongyuClient.csprojResolveAssemblyReference.cache
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\obj\x64\Debug\xinLongyuClient.Properties.Resources.resources
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\obj\x64\Debug\xinLongyuClient.View.MainForm.frmMain.resources
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\obj\x64\Debug\xinLongyuClient.csproj.GenerateResource.Cache
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\obj\x64\Debug\xinLongyuClient.exe
+C:\Users\choujidan\documents\visual studio 2015\Projects\xinLongyuClient\xinLongyuClient\obj\x64\Debug\xinLongyuClient.pdb
